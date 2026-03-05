@@ -5,14 +5,12 @@ function SideToolbar(){
   return(
     <div className="sidebar">
 
-      <button>🖱</button>
-      <button>📄</button>
-      <button>🔳</button>
+      
+    
       <button>🎨</button>
       <button>✏</button>
       <button>🧽</button>
       <button>🔤</button>
-      <button>🖼</button>
       <button>📥</button>
       <button>↩</button>
       <button>↪</button>
