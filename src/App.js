@@ -1,21 +1,19 @@
 import React from "react";
+import "./App.css";
+
 import TopBar from "./component/TopBar";
 import SideToolbar from "./component/SideToolbar";
 import Canvas from "./component/Canvas";
-import "./App.css";
 
 function App() {
   return (
-    <div className="app">
+    <div className="workspace">
 
       <TopBar />
 
-      <div className="workspace">
-
+      <div className="main-area">
         <SideToolbar />
-
         <Canvas />
-
       </div>
 
     </div>
