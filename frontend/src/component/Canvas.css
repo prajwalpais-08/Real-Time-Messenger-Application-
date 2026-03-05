@@ -1,0 +1,14 @@
+.canvas-area{
+  flex:1;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#dcdcdc;
+}
+
+.board{
+  width:90%;
+  height:85%;
+  background:white;
+  border-radius:20px;
+}

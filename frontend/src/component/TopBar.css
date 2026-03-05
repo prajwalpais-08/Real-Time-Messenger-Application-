@@ -1,0 +1,28 @@
+.topbar{
+  height:60px;
+  background:#e5e5e5;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 20px;
+}
+
+.logo{
+  font-size:22px;
+  font-weight:bold;
+  color:#3ca34d;
+}
+
+.logo span{
+  color:#444;
+}
+
+.board-controls{
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+
+.board-controls button{
+  padding:6px 10px;
+}
