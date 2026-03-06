@@ -11,7 +11,7 @@ This project is a React-based application that provides a collaborative whiteboa
 - Modular component structure
 
 ## Project Structure
-
+---
 src/
 │
 ├── components/
@@ -30,6 +30,7 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
+---
 ## Getting Started
 
 ### Install dependencies
