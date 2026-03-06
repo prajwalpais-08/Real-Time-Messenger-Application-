@@ -14,18 +14,22 @@ This project is a React-based application that provides a collaborative whiteboa
 
 src/
 │
-├── component/
-│   ├── Canvas.js
-│   ├── Canvas.css
-│   ├── SideToolbar.js
-│   ├── SideToolbar.css
-│   ├── TopBar.js
-│   ├── TopBar.css
+├── components/
+│   ├── Canvas/
+│   │   ├── Canvas.js
+│   │   └── Canvas.css
+│   │
+│   ├── SideToolbar/
+│   │   ├── SideToolbar.js
+│   │   └── SideToolbar.css
+│   │
+│   ├── TopBar/
+│   │   ├── TopBar.js
+│   │   └── TopBar.css
 │
 ├── App.js
 ├── App.css
 └── index.js
-
 ## Getting Started
 
 ### Install dependencies
